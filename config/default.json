@@ -1,3 +1,4 @@
 {
-    "mongoURI": "mongodb+srv://haoqiny:195210484Felix@devconnector.rlnfpdo.mongodb.net/?retryWrites=true&w=majority"
+  "mongoURI": "mongodb+srv://haoqiny:195210484Felix@devconnector.rlnfpdo.mongodb.net/?retryWrites=true&w=majority",
+  "jwtSecret": "mysecrettoken"
 }
